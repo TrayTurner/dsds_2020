@@ -548,4 +548,16 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#manuell hinzugefügt
+*.js
+__MACOSX
+.DS_Store
+package-lock.json
+tslint.json
+exportToHTML
+*.doc
+*.docx
+# Dependency directories
+node_modules/
+jspm_packages/
 # End of https://www.gitignore.io/api/kate,linux,latex,windows,webstorm,sublimetext,webstorm+all,jetbrains+all 
